@@ -1,0 +1,9 @@
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe.config
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.exe
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\bin\Debug\AppCalculadora.pdb
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Form1.resources
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.Properties.Resources.resources
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.csproj.GenerateResource.Cache
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.exe
+c:\users\lab104bpc9\documents\visual studio 2012\Projects\AppCalculadora\AppCalculadora\obj\Debug\AppCalculadora.pdb
